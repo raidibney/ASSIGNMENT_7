@@ -118,5 +118,29 @@
     "bio": "Academic advisor with a focus on student progress.",
     "goal": 21,
     "next_due_date": "April 17, 2026"
+  },
+  {
+    "id": 11,
+    "name": "Tanvir Rahman",
+    "picture": "https://i.pravatar.cc/150?u=tanvir",
+    "email": "tanvir.dev@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["Tech", "Friend"],
+    "bio": "Passionate software engineering student at AIUB. Great at React and Next.js.",
+    "goal": 7,
+    "next_due_date": "April 19, 2026"
+  },
+  {
+    "id": 12,
+    "name": "Mehedi Hasan",
+    "picture": "https://i.pravatar.cc/150?u=mehedi",
+    "email": "mehedi.h@example.com",
+    "days_since_contact": 40,
+    "status": "overdue",
+    "tags": ["Family", "Mentor"],
+    "bio": "Supportive mentor with deep knowledge in .NET Core and system troubleshooting.",
+    "goal": 30,
+    "next_due_date": "March 25, 2026"
   }
 ]
