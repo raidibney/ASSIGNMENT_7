@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Wilson",
+    "picture": "https://i.pravatar.cc/150?u=emma",
+    "email": "emma@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["Family", "Mentor"],
+    "bio": "Former colleague and a great mentor in career growth.",
+    "goal": 30,
+    "next_due_date": "Feb 27, 2026"
+  },
+  {
+    "id": 2,
+    "name": "David Kim",
+    "picture": "https://i.pravatar.cc/150?u=david",
+    "email": "david@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["Work"],
+    "bio": "Current project manager, very detail-oriented.",
+    "goal": 7,
+    "next_due_date": "April 20, 2026"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Chen",
+    "picture": "https://i.pravatar.cc/150?u=sarah",
+    "email": "sarah.c@example.com",
+    "days_since_contact": 15,
+    "status": "almost due",
+    "tags": ["Friend", "Tech"],
+    "bio": "Fellow developer, loves discussing system architecture.",
+    "goal": 20,
+    "next_due_date": "April 28, 2026"
+  },
+  {
+    "id": 4,
+    "name": "Marcus Johnson",
+    "picture": "https://i.pravatar.cc/150?u=marcus",
+    "email": "marcus.j@example.com",
+    "days_since_contact": 2,
+    "status": "on-track",
+    "tags": ["Work"],
+    "bio": "Design lead for the DigiTools project.",
+    "goal": 14,
+    "next_due_date": "April 26, 2026"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Martinez",
+    "picture": "https://i.pravatar.cc/150?u=olivia",
+    "email": "olivia.m@example.com",
+    "days_since_contact": 45,
+    "status": "overdue",
+    "tags": ["College"],
+    "bio": "Old university friend from BSc days.",
+    "goal": 30,
+    "next_due_date": "March 15, 2026"
+  },
+  {
+    "id": 6,
+    "name": "Aisha Patel",
+    "picture": "https://i.pravatar.cc/150?u=aisha",
+    "email": "aisha.p@example.com",
+    "days_since_contact": 10,
+    "status": "on-track",
+    "tags": ["Family"],
+    "bio": "Cousin who is also interested in UI/UX design.",
+    "goal": 30,
+    "next_due_date": "May 04, 2026"
+  },
+  {
+    "id": 7,
+    "name": "Ryan O'Brien",
+    "picture": "https://i.pravatar.cc/150?u=ryan",
+    "email": "ryan.o@example.com",
+    "days_since_contact": 22,
+    "status": "almost due",
+    "tags": ["Mentor"],
+    "bio": "Senior architect providing guidance on .NET Core.",
+    "goal": 25,
+    "next_due_date": "April 18, 2026"
+  },
+  {
+    "id": 8,
+    "name": "Lisa Nakamura",
+    "picture": "https://i.pravatar.cc/150?u=lisa",
+    "email": "lisa.n@example.com",
+    "days_since_contact": 55,
+    "status": "overdue",
+    "tags": ["Work", "Friend"],
+    "bio": "Former teammate from the early startup days.",
+    "goal": 45,
+    "next_due_date": "Feb 28, 2026"
+  },
+  {
+    "id": 9,
+    "name": "Tom Baker",
+    "picture": "https://i.pravatar.cc/150?u=tom",
+    "email": "tom.b@example.com",
+    "days_since_contact": 4,
+    "status": "on-track",
+    "tags": ["Tech"],
+    "bio": "Enthusiast for high-resolution digital art and lofi aesthetics.",
+    "goal": 10,
+    "next_due_date": "April 24, 2026"
+  },
+  {
+    "id": 10,
+    "name": "Kulsum Begum",
+    "picture": "https://i.pravatar.cc/150?u=teacher",
+    "email": "kulsum@example.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["Education"],
+    "bio": "Academic advisor with a focus on student progress.",
+    "goal": 21,
+    "next_due_date": "April 17, 2026"
+  }
+]
