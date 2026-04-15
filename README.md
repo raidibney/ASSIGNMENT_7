@@ -57,3 +57,6 @@ Helps improve consistency in staying connected
   Dynamic routing and navigation
 
   Clean, modern UI/UX design principles
+
+  ### REPO LINK - https://github.com/raidibney/ASSIGNMENT_7
+  ### LIVE LINK - https://assignment-7-zeta-two.vercel.app/
